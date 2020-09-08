@@ -4,7 +4,7 @@
 
 ![Hyunju's github stats](https://github-readme-stats.vercel.app/api?username=juthor&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juthor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juthor&layout=compact)](https://github.com/juthor/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=juthor)](https://solved.ac/juthor)
 
