@@ -23,6 +23,7 @@
 </div>
 </details>
 
+<!--
 <details>
 <summary>Top Langs</summary>
 <div markdown="1">
@@ -31,7 +32,7 @@
 
 </div>
 </details>
-
+-->
 <!--
 **juthor/juthor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
