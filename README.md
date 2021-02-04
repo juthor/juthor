@@ -2,8 +2,7 @@
 
 #### ✨목표✨  
 
-- 1 Day 1 Algorithm  
-- 1 Day 1 Conference  
+- 1 Day 1 Commit
 
 <details>
 <summary>solved.ac</summary>
